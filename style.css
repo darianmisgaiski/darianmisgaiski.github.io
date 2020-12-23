@@ -20,6 +20,10 @@ h1 {
   border-radius: 10px;
 }
 
+.link-container:hover {
+  border: 1px solid #898989;
+}
+
 .svg-icon {
   padding: 10px;
   height: 160px;
